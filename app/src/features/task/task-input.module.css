@@ -1,0 +1,10 @@
+.form{
+    display: flex;
+    margin-top: 20px;
+    justify-content: space-around;
+}
+
+.form input,.form button{
+    display: inline-block;
+    margin: 10px;
+}
